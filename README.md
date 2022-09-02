@@ -2,7 +2,7 @@
 
 Python GUI APP that gathers data on newegg products that are in stock and outputs an excel sheet with the data.
 
-The following data is gathered and showed on an excel sheet:
+The following data is gathered and organized in an excel sheet:
 <ol>
   <li>hyperlink</li>
   <li>details</li>
@@ -39,5 +39,7 @@ The following data is gathered and showed on an excel sheet:
 </div>
 
 # Usage
+To initiate ProductFinder APP 
+run file  <code>main.py</code>
+ 
 
-To initate APP run file main.py
