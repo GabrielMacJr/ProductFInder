@@ -20,7 +20,24 @@ The following data is gathered and showed on an excel sheet:
  
  <ul>
   <li>Product Search - Type the product you are looking for</li>
-  <li>File Name - Type the name of the excel sheet that will have</li>
+  <li>File Name - Name of the excel file being created</li>
   <li>Saving Location - Type or Browse your saving directory</li>
   <li>Complete Search - Initiate search </li>
 </ul> 
+
+# Requirements
+
+<div>
+<pre>
+  <code> 
+    beautifulsoup4==4.11.1
+    pandas==1.4.2
+    PySimpleGUI==4.60.3
+    requests==2.27.1
+  </code>
+</pre>
+</div>
+
+# Usage
+
+Run app
