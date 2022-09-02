@@ -15,7 +15,7 @@ def run():
         [sg.Text("Saving Location"), sg.Input(key='save_folder'), sg.FolderBrowse()],
         [sg.Button("Complete Search"), sg.Exit()],
             ]
-    window = sg.Window("Search Item GUI", layout, element_justification='right')
+    window = sg.Window("ProductFinder", layout, element_justification='right')
     while True:
         event, values = window.read()
         if event in (sg.WIN_CLOSED, 'Exit'):
