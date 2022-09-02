@@ -40,4 +40,4 @@ The following data is gathered and showed on an excel sheet:
 
 # Usage
 
-Run app
+To initate APP run file product_finder_GUI.py
