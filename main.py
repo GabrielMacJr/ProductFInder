@@ -10,10 +10,10 @@ def run():
     """
     sg.theme('DefaultNoMoreNagging') 
     layout = [
-        [sg.Text("Product Search"), sg.Input(key='user_input', size=(54,1))],
-        [sg.Text("File Name"), sg.Input(key='file_name', size=(54,1))],
-        [sg.Text("Saving Location"), sg.Input(key='save_folder'), sg.FolderBrowse()],
-        [sg.Button("Complete Search"), sg.Exit()],
+        [sg.Text('Product Search'), sg.Input(key='user_input', size=(54,1))],
+        [sg.Text('File Name'), sg.Input(key='file_name', size=(54,1))],
+        [sg.Text('Saving Location'), sg.Input(key='save_folder'), sg.FolderBrowse()],
+        [sg.Button('Complete Search'), sg.Exit()],
             ]
     window = sg.Window("ProductFinder", layout, element_justification='right')
     while True:

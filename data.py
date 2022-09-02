@@ -18,7 +18,7 @@ def user_search(user_input_search_term):
     doc_html = requests.get(url).text
     doc = BeautifulSoup(doc_html, "html.parser") 
     if doc.find('span', attrs ={'class':'list-tool-pagination-text'}):
-        page_number_text = doc.find('span', class_ = 'list-tool-pagination-text').find('strong', recursive=False)#Find the direct child of 
+        page_number_text = doc.find('span', class_ = 'list-tool-pagination-text').find('strong', recursive=False)#Find the direct child 
         pages = int(str(page_number_text).split("/")[1].split('>')[1][:-1])
         return(pages, doc)
     else:
@@ -34,12 +34,12 @@ def get_data(pages, doc):
        :returns:
             - df - dataframe
     """
-    search_dictionary={} # all lists will be stored in this dictionary to creare a dataframe
+    search_dictionary={} #all lists will be stored in this dictionary to creare a dataframe
     link_list=[] #hyperlink of item
     details_list=[] #details/description of item
     total_cost_list=[] #price of item
     shipping_price_list=[] #shipping price 
-    rating_list=[] # rating of item
+    rating_list=[] #rating of item
     number_of_reviews_list=[] #number of reviews
     pages_list=[] #page where item is found
 
