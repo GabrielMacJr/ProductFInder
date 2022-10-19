@@ -19,10 +19,10 @@ The following data is gathered and organized in an excel sheet:
 # Features
  
  <ul>
-  <li>Product Search - Type the product you are looking for</li>
-  <li>File Name - Name of the excel file being created</li>
-  <li>Saving Location - Type or Browse your saving directory</li>
-  <li>Complete Search - Initiate search </li>
+  <li><b>Product Search</b> - Type the product you are looking for</li>
+  <li><b>File Name</b> - Name of the excel file being created</li>
+  <li><b>Saving Location</b> - Type or Browse your saving directory</li>
+  <li><b>Complete Search</b> - Initiate search </li>
 </ul> 
 
 # Requirements
