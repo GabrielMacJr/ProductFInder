@@ -34,6 +34,7 @@ The following data is gathered and organized in an excel sheet:
     pandas==1.4.2
     PySimpleGUI==4.60.3
     requests==2.27.1
+    openpyxl==3.0.10
   </code>
 </pre>
 </div>
