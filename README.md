@@ -25,6 +25,10 @@ The following data is gathered and organized in an excel sheet:
   <li><b>Complete Search</b> - Initiate search </li>
 </ul> 
 
+# How to use
+
+  
+
 # Requirements
 
 <div>
