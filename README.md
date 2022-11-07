@@ -20,7 +20,7 @@ The following data is gathered and organized in an excel sheet:
  
  <ul>
   <li><b>Product Search</b> - Type the product you are looking for</li>
-  <li><b>File Name</b> - Name of the excel file being created</li>
+  <li><b>File Name</b> - Type the name for the excel file being created</li>
   <li><b>Saving Location</b> - Type or Browse your saving directory</li>
   <li><b>Complete Search</b> - Initiate search </li>
 </ul> 
