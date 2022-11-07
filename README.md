@@ -26,10 +26,10 @@ The following data is gathered and organized in an excel sheet:
 </ul> 
 
 # How to Use
- 
- <br><b>First Step:</b></br>
- <br>Click the link below:</br>
- Download ProducFinder APP: [Click Here](https://github.com/GabrielMacJr/ProductFinder/releases)
+
+ <b>First Step:</b>
+<br>Click the link below:</br>
+ Download ProductFinder APP: [Click Here](https://github.com/GabrielMacJr/ProductFinder/releases)
  
  <br><b>Second Step:</b></br>
  Click the ProductFinder.exe
