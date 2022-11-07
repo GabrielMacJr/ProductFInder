@@ -53,7 +53,7 @@ Click on <b>Run anyway</b>
 
 ![image](https://user-images.githubusercontent.com/110753469/200228247-281c0d57-d57e-41d8-ad20-e169a660065d.png)
 
-<b>Finally the ProductFinder will appear and it is ready to use</b>
+<b>Finally the ProductFinder APP will appear and it is ready to use</b>
 
 ![image](https://user-images.githubusercontent.com/110753469/200228482-be99e20e-ee30-461a-9d42-eb944ec4cd9f.png)
 
