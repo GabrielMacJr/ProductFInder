@@ -37,7 +37,7 @@ The following data is gathered and organized in an excel sheet:
  ![image](https://user-images.githubusercontent.com/110753469/200227019-6288aa6d-bd30-4e9a-8d65-289363a06308.png)
 
 <br><b>Third Step:</b></br>
-Once downloaded, click on the <b>ProductFinder.exe</b> to run the program
+Once downloaded, click on the <b>ProductFinder.exe</b> to open the program
 
 ![image](https://user-images.githubusercontent.com/110753469/200228976-ec15c7c4-bb7e-47e0-89ad-6935ee00feb0.png)
 
