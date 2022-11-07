@@ -35,8 +35,15 @@ The following data is gathered and organized in an excel sheet:
  Click the ProductFinder.exe
  ![image](https://user-images.githubusercontent.com/110753469/200227019-6288aa6d-bd30-4e9a-8d65-289363a06308.png)
 
+<br><b>Third Step:</b></br>
+Click
 ![image](https://user-images.githubusercontent.com/110753469/200227354-be1784ee-7a91-4443-9035-2c7917ed36ea.png)
 
+![image](https://user-images.githubusercontent.com/110753469/200228151-60ea73d9-32da-4181-952c-05cecf43358e.png)
+
+![image](https://user-images.githubusercontent.com/110753469/200228247-281c0d57-d57e-41d8-ad20-e169a660065d.png)
+
+![image](https://user-images.githubusercontent.com/110753469/200228482-be99e20e-ee30-461a-9d42-eb944ec4cd9f.png)
 
 # Requirements
 
