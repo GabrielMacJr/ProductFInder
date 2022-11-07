@@ -26,8 +26,10 @@ The following data is gathered and organized in an excel sheet:
 </ul> 
 
 # How to Use
-
-Download : [here] (https://github.com/GabrielMacJr/ProductFinder/releases)
+ 
+ First Step
+ 
+ Download : [here](https://github.com/GabrielMacJr/ProductFinder/releases)
   
 
 # Requirements
