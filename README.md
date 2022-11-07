@@ -31,7 +31,7 @@ The following data is gathered and organized in an excel sheet:
  
  <b>First Step:</b>
 <br>Click the link below:</br>
- Download <b>ProductFinder APP</b>: [Click Here](https://github.com/GabrielMacJr/ProductFinder/releases)
+ To Download the <b>ProductFinder APP</b>: [Click Here](https://github.com/GabrielMacJr/ProductFinder/releases)
  
  <br><b>Second Step:</b></br>
  Click the <b>ProductFinder.exe</b> to download the program
