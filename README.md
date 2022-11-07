@@ -27,10 +27,16 @@ The following data is gathered and organized in an excel sheet:
 
 # How to Use
  
- First Step
+ <br><b>First Step:</b></br>
+ Click the link below:
+ Download : [Here](https://github.com/GabrielMacJr/ProductFinder/releases)
  
- Download : [here](https://github.com/GabrielMacJr/ProductFinder/releases)
-  
+ <br><b>First Step:</b></br>
+ Click the ProductFinder.exe
+ ![image](https://user-images.githubusercontent.com/110753469/200227019-6288aa6d-bd30-4e9a-8d65-289363a06308.png)
+
+![image](https://user-images.githubusercontent.com/110753469/200227354-be1784ee-7a91-4443-9035-2c7917ed36ea.png)
+
 
 # Requirements
 
