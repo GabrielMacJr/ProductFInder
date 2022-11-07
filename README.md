@@ -4,7 +4,7 @@
 
 The following data is gathered and organized in an excel sheet:
 <ol>
-  <li><b>hyperlink</b></li>
+  <b><li>hyperlink</li></b>
   <li>details</li>
   <li>price</li>
   <li>shipping price</li>
