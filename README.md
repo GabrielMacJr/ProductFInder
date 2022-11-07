@@ -5,11 +5,11 @@
 The following data is gathered and organized in an excel sheet:
 <ol>
   <b><li>hyperlink</li></b>
-  <li>details</li>
-  <li>price</li>
-  <li>shipping price</li>
-  <li>number of reviews</li>
-  <li>page found</li>
+  <b><li>details</li></b>
+  <b><li>price</li></b>
+  <b><li>shipping price</li></b>
+  <b><li>number of reviews</li></b>
+  <b><li>page found</li></b>
  </ol> 
 
 # GUI APP Image
