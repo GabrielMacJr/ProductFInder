@@ -32,12 +32,15 @@ The following data is gathered and organized in an excel sheet:
  Download ProductFinder APP: [Click Here](https://github.com/GabrielMacJr/ProductFinder/releases)
  
  <br><b>Second Step:</b></br>
- Click the ProductFinder.exe
+ Click the ProductFinder.exe to download the program
+ 
  ![image](https://user-images.githubusercontent.com/110753469/200227019-6288aa6d-bd30-4e9a-8d65-289363a06308.png)
 
 <br><b>Third Step:</b></br>
-Click
+Once downloaded, click on the ProductFinder.exe to run the program
 ![image](https://user-images.githubusercontent.com/110753469/200227354-be1784ee-7a91-4443-9035-2c7917ed36ea.png)
+
+<br><b>Fourth Step:</b></br>
 
 ![image](https://user-images.githubusercontent.com/110753469/200228151-60ea73d9-32da-4181-952c-05cecf43358e.png)
 
