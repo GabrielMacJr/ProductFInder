@@ -42,7 +42,7 @@ Once downloaded, click on the <b>ProductFinder.exe</b> to run the program
 ![image](https://user-images.githubusercontent.com/110753469/200228976-ec15c7c4-bb7e-47e0-89ad-6935ee00feb0.png)
 
 <br><b>Fourth Step:</b></br>
-If warning appears, click on <b>More Info</b>
+If warning appears, click on <b>More info</b>
 
 ![image](https://user-images.githubusercontent.com/110753469/200228151-60ea73d9-32da-4181-952c-05cecf43358e.png)
 
@@ -51,7 +51,8 @@ Click on <b>Run anyway</b>
 
 ![image](https://user-images.githubusercontent.com/110753469/200228247-281c0d57-d57e-41d8-ad20-e169a660065d.png)
 
-Once the 
+Finally the ProductFinder will appear and it is ready to use
+
 ![image](https://user-images.githubusercontent.com/110753469/200228482-be99e20e-ee30-461a-9d42-eb944ec4cd9f.png)
 
 # Requirements
