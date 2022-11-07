@@ -27,9 +27,11 @@ The following data is gathered and organized in an excel sheet:
 
 # How to Use
 
+<h6>Please follow the 5 Steps below</h6>
+ 
  <b>First Step:</b>
 <br>Click the link below:</br>
- Download ProductFinder APP: [Click Here](https://github.com/GabrielMacJr/ProductFinder/releases)
+ Download <b>ProductFinder APP</b>: [Click Here](https://github.com/GabrielMacJr/ProductFinder/releases)
  
  <br><b>Second Step:</b></br>
  Click the <b>ProductFinder.exe</b> to download the program
@@ -51,9 +53,10 @@ Click on <b>Run anyway</b>
 
 ![image](https://user-images.githubusercontent.com/110753469/200228247-281c0d57-d57e-41d8-ad20-e169a660065d.png)
 
-Finally the ProductFinder will appear and it is ready to use
+<b>Finally the ProductFinder will appear and it is ready to use</b>
 
 ![image](https://user-images.githubusercontent.com/110753469/200228482-be99e20e-ee30-461a-9d42-eb944ec4cd9f.png)
+
 
 # Requirements
 
