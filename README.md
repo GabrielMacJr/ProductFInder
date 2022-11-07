@@ -38,7 +38,8 @@ The following data is gathered and organized in an excel sheet:
 
 <br><b>Third Step:</b></br>
 Once downloaded, click on the ProductFinder.exe to run the program
-![image](https://user-images.githubusercontent.com/110753469/200227354-be1784ee-7a91-4443-9035-2c7917ed36ea.png)
+
+![image](https://user-images.githubusercontent.com/110753469/200228976-ec15c7c4-bb7e-47e0-89ad-6935ee00feb0.png)
 
 <br><b>Fourth Step:</b></br>
 
