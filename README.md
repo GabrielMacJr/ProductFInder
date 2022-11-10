@@ -25,16 +25,15 @@ The following data is gathered and organized in an excel sheet:
   <li><b>Complete Search</b> - Initiate search </li>
 </ul> 
 
-# How to Run ProductFinder APP (Two different ways)
+# How to Run ProductFinder APP (Two different methods)
 
-
-<h3>First way to run<h3>
-Download the repository and run the file <code>main.py</code> on python.
-
-<h3> Second way<h3>
-<h6>Please follow the 5 Steps below</h6>
+ <b>The first method to run ProductFinder APP</b>
+  <br>&emsp;Download the repository and run file <code>main.py</code> on python</br>
  
- <b>1st Step:</b>
+<b>The second method to run ProductFinder APP</b>
+<br>&emsp;Please follow the 5 Steps below to downlaod the .exe file</br>
+
+<b>1st Step:</b>
 <br>Click the link below:</br>
  To Download the <b>ProductFinder APP</b>: [Click Here](https://github.com/GabrielMacJr/ProductFinder/releases)
  
