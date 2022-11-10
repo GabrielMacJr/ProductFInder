@@ -20,35 +20,40 @@ The following data is gathered and organized in an excel sheet:
  
  <ul>
   <li><b>Product Search</b> - Type the product you are looking for</li>
-  <li><b>File Name</b> - Type the name for the excel file being created</li>
+  <li><b>File Name</b> - Type the name of the excel file being created</li>
   <li><b>Saving Location</b> - Type or Browse your saving directory</li>
   <li><b>Complete Search</b> - Initiate search </li>
 </ul> 
 
-# How to Use
+# How to Run ProductFinder APP (Two different ways)
 
+
+<h3>First way to run<h3>
+Download the repository and run the file <code>main.py</code> on python.
+
+<h3> Second way<h3>
 <h6>Please follow the 5 Steps below</h6>
  
- <b>First Step:</b>
+ <b>1st Step:</b>
 <br>Click the link below:</br>
  To Download the <b>ProductFinder APP</b>: [Click Here](https://github.com/GabrielMacJr/ProductFinder/releases)
  
- <br><b>Second Step:</b></br>
+ <br><b>2nd Step:</b></br>
  Click the <b>ProductFinder.exe</b> to download the program
  
  ![image](https://user-images.githubusercontent.com/110753469/200227019-6288aa6d-bd30-4e9a-8d65-289363a06308.png)
 
-<br><b>Third Step:</b></br>
+<br><b>3rd Step:</b></br>
 Once downloaded, click on the <b>ProductFinder.exe</b> to open the program
 
 ![image](https://user-images.githubusercontent.com/110753469/200228976-ec15c7c4-bb7e-47e0-89ad-6935ee00feb0.png)
 
-<br><b>Fourth Step:</b></br>
+<br><b>4th Step:</b></br>
 If warning appears, click on <b>More info</b>
 
 ![image](https://user-images.githubusercontent.com/110753469/200228151-60ea73d9-32da-4181-952c-05cecf43358e.png)
 
-<br><b>Fifth Step:</b></br>
+<br><b>5th Step:</b></br>
 Click on <b>Run anyway</b>
 
 ![image](https://user-images.githubusercontent.com/110753469/200228247-281c0d57-d57e-41d8-ad20-e169a660065d.png)
@@ -72,8 +77,6 @@ Click on <b>Run anyway</b>
 </pre>
 </div>
 
-# Usage
-To initiate ProductFinder APP 
-run file  <code>main.py</code>
+
  
 
