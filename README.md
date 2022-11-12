@@ -27,10 +27,10 @@ The following data is gathered and organized in an excel sheet:
 
 # How to Run ProductFinder APP (Two different methods)
 
- <b>The first method to run ProductFinder APP</b>
+ <b>(1) The first method to run ProductFinder APP</b>
   <br>&emsp;Download the repository and run file <code>main.py</code> on python</br>
  
-<b>The second method to run ProductFinder APP</b>
+<b>(2) The second method to run ProductFinder APP</b>
 <br>&emsp;Please follow the 5 Steps below to downlaod the .exe file</br>
 
 <b>1st Step:</b>
