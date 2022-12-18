@@ -1,6 +1,9 @@
 # ProductFinder
 
-<b>Goal</b>: Create a Python GUI APP that gathers data on a product of your choice (in stock products) from the newegg site and outputs an excel sheet with the data.
+![productFinderBackground](https://user-images.githubusercontent.com/110753469/208321948-b29adf89-c4ba-408e-9406-18a4c7582dd1.png)
+
+# Objective
+Create a Python GUI APP that gathers data on a product of your choice (in stock products) from the newegg site and outputs an excel sheet with the data.
 
 The following data is gathered and organized in an excel sheet:
 <ol>
