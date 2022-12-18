@@ -1,6 +1,10 @@
 # ProductFinder
 
-![productFinderBackground](https://user-images.githubusercontent.com/110753469/208321948-b29adf89-c4ba-408e-9406-18a4c7582dd1.png)
+<p align = "center">
+<img width =650px height = 200px src = "https://user-images.githubusercontent.com/110753469/208322262-4feaba75-7e20-4431-9f29-67cf2af7f090.png">
+</p>
+
+
 
 # Objective
 Create a Python GUI APP that gathers data on a product of your choice (in stock products) from the newegg site and outputs an excel sheet with the data.
